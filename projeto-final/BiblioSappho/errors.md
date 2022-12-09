@@ -1,0 +1,1 @@
+"Cannot read properties of undefined (reading 'split')" - when attempting authorization without activating header. Unsure whether it is best to remove the split (which returns undefined) or keep it with the error
